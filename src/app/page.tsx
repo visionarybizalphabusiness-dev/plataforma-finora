@@ -1,0 +1,1 @@
+                <h1 className="text-xl font-bold text-black">FinoraApp</h1>
